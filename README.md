@@ -8,8 +8,8 @@ I've been programming in some form or the other since I was in fifth grade. Over
 - ML and Data Science libraries like Keras, Turi Create, Pandas, OpenCV, and spAcy
 - TailwindCSS, Bulma, and Bootstrap 
 
-... and much more! 
-
-I'm [currently learning Julia](https://github.com/ArjunS07/mit-computationalthinking).
+... and much more!
 
 I'm always open to research opportunities and collaborating on projects. You can reach me at (firstname).sharma07 at outlook dot com.
+
+You can check out my blog and learn more about me on my [personal website](https://arjun-sharma.netlify.app)
